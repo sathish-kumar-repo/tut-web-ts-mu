@@ -1,8 +1,8 @@
-Learn react from maxschwarzmueller udemy
+Learn tss from maxschwarzmueller udemy
 
 # Alias name
 
-twrjfmu
+twtsfmu
 
 "homepage": "https://sathish-kumar-repo.github.io/react-twrjfmu/",
 
